@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "backend": "1.0.0"
+    "backend": "1.0.0",
     "express": "4.16.0"
   }
 }
