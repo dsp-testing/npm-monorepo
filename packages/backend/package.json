@@ -8,4 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+  "dependencies": {
+    "react": "18.0.0"
+  }
 }
